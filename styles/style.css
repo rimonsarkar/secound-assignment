@@ -113,7 +113,6 @@ nav > ul {
 }
 .experience {
     width: 1400px;
-    height: 4059px;
     margin: 20px;
 }
 .fourth-title {
@@ -154,8 +153,19 @@ nav > ul {
     font-size: 20px;
     border: 0;
     padding: 45px 42px;
-    justify-content: space-between;
-    height: 200px;
     border-radius: 8px;
     background-color: #FF900E;
+}
+
+
+.section-title {
+    font-size: 45px;
+    font-weight: 700;
+    color: #131313;
+}
+
+.section-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
 }
