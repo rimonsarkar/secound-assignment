@@ -107,4 +107,55 @@ nav > ul {
     border-radius: 8px;
     background-color: #FF900E;
 }
+.container-title {
+    display: flex;
+    align-items: center;
+}
+.experience {
+    width: 1400px;
+    height: 4059px;
+    margin: 20px;
+}
+.fourth-title {
+    font-size: 45px;
+    font-weight: 700;
+    color: rgba(19, 19, 19, 1);
+}
 
+.fourth-title-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgba(114, 114, 114, 1);
+}
+
+.first-h6 {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(19, 19, 19, 1);
+}
+.secound-h6 {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(19, 19, 19, 1);
+}
+.third-h6 {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(19, 19, 19, 1);
+}
+.fourth-h6 {
+    font-size: 20px;
+    font-weight: 600;
+    color: rgba(19, 19, 19, 1);
+}
+.third-button {
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 20px;
+    border: 0;
+    padding: 45px 42px;
+    justify-content: space-between;
+    height: 200px;
+    border-radius: 8px;
+    background-color: #FF900E;
+}
