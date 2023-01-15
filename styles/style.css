@@ -169,3 +169,24 @@ nav > ul {
     font-weight: 400;
     color: #727272;
 }
+.icon-setup {
+    display: flex;
+    text-align: center;
+}
+
+.our-sponsors {
+    font-size: 45px;
+    font-weight: 700;
+    color: #131313;
+    padding: 24px;
+}
+
+.sponsors-description {
+    font-size: 16px;
+    font-weight: 400;
+    color: #727272;
+}
+.sponsors-image {
+    display: flex;
+    text-align: center;
+}
