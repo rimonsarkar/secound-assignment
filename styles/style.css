@@ -46,29 +46,30 @@ nav > ul {
 }
 
 .section-header {
+            text-align: center;
+            justify-content: space-evenly;
             font-size: 64px;
             font-weight: 700;
-            width: 862px;
-            left: 205px;
-            line-height: 75px;
             margin: 20px;
            
 }
 .section-description {
     font-size: 10px;
     font-weight: 300;
+    text-align: center;
 }
+
 .button {
+   text-align: center;
    color: #FFFFFF;
    font-weight: 600;
    font-size: 20px;
    border: 0;
    padding: 20px 25px;
-   justify-content: space-between;
    height: 64px;
    border-radius: 8px;
    background-color: #FF900E;
-    
+   text-align: center;
 }
 
 .banner-image {
@@ -80,13 +81,19 @@ nav > ul {
 }
 .container-image {
     display: flex;
+    justify-content: space-between;
+    gap: 24px;
 }
 
 .architecture {
-    padding: 24px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    
 }
 
 .third-head {
+    text-align: center;
+    justify-content: space-between;
     font-size: 45px;
     font-weight: 500;
 }
@@ -97,6 +104,7 @@ nav > ul {
 }
 
 .secound-button {
+    text-align: center;
     color: #FFFFFF;
     font-weight: 600;
     font-size: 20px;
