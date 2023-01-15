@@ -157,47 +157,75 @@ nav > ul {
     background-color: #FF900E;
 }
 
-
+.some-facts {
+   padding: 0 240px;
+}
 .section-title {
     font-size: 45px;
     font-weight: 700;
     color: #131313;
 }
 
-.section-description {
-    font-size: 16px;
+.section-des-one {
     font-weight: 400;
-    color: #727272;
+}
+section-des-two {
+    font-size: 12px;
+    font-weight: 400;
+}
+.icon-section {
+    margin: 100px;
+    gap: 6rem;
+    
 }
 .icon-setup {
-    display: flex;
     text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    border: rgba(255, 144, 14, 1);
+}
+.sponsors {
+    text-align: center;
+    justify-content: space-evenly;
+}
+.last-section {
+    text-align: center;
+    justify-content: space-between;
 }
 
 .our-sponsors {
-    font-size: 45px;
-    font-weight: 700;
-    color: #131313;
-    padding: 24px;
+   font-size: 45px;
+   font-weight: 700;
+   margin: 24px;
+   
 }
 
 .sponsors-description {
-    font-size: 16px;
     font-weight: 400;
-    color: #727272;
+    
+    
+    
+}
+.sponsors-description-two {
+
+    font-weight: 400;
+    color: #727272;       
 }
 .sponsors-image {
+    margin: 50px;
     display: flex;
     text-align: center;
     padding: 0 240px;
-    grid-row: span 6;
+    justify-content: space-evenly;
+    gap: 3rem;
+   
 }
 .footer {
     background-color: #FFF4E7;
 }
 
 .footer-description {
-    font-size: 20px;
+    font-size: 12px;
     font-weight: 400;
     text-align: center ;
     padding: 216px 240px;
