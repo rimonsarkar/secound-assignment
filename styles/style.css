@@ -242,7 +242,7 @@ nav > ul {
 
 
 @media screen and (max-width:576px) {
-    .container, .section,.section-header, .section-description, .button, .banner-image, .container-image, .architecture, .third-head, .secound-description, .secound-button, .container-title, .experience, .fourth-title, .fourth-title-description, .third-button, .some-facts, .section-title, .section-des-one, .icon-section, .icon-setup, .sponsors, .last-section, .our-sponsors, .secound-description, .sponsors-description-two, .sponsors-image, .footer, .footer-description {
+    .container, .section,.section-header, .section-description, .button, .banner-image, .container-image, .architecture, .third-head, .secound-description, .secound-button, .container-title, .experience, .fourth-title, .fourth-title-description, .third-button, .some-facts, .section-title, .section-des-one, .icon-section, .icon-setup, .sponsors, .last-section, .our-sponsors, .secound-description, .sponsors-description-two, .sponsors-image, .footer, .footer-description, .image {
         flex-direction: column;
         padding: 10px 20px;
     }
