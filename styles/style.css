@@ -189,4 +189,18 @@ nav > ul {
 .sponsors-image {
     display: flex;
     text-align: center;
+    padding: 0 240px;
+    grid-row: span 6;
+}
+.footer {
+    background-color: #FFF4E7;
+}
+
+.footer-description {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center ;
+    padding: 216px 240px;
+    border-radius: 8px;
+
 }
